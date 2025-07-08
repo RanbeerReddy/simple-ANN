@@ -5,3 +5,4 @@ streamlit
 tensorboard
 scikit-learn
 tensorflow==2.15.0
+scikeras
